@@ -2,6 +2,14 @@
 
 An OpenCode 1.x plugin that raises the resolved context limit for GPT-5.6 Sol, Terra, and Luna when using the built-in ChatGPT OAuth transport.
 
+## Quick Start with an AI agent
+
+Paste this prompt into your AI agent:
+
+```text
+Install and configure openai-oauth-1m from this private repository. Use authenticated gh CLI access if needed: https://github.com/syamsudotdev/openai-oauth-1m/blob/main/README.md
+```
+
 ## Requirements
 
 - OpenCode 1.18.19 or later
