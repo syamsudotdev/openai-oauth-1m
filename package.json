@@ -2,6 +2,7 @@
   "name": "openai-oauth-1m",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "test": "node --test openai-oauth-1m.test.js",
