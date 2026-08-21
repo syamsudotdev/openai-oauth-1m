@@ -1,0 +1,10 @@
+{
+  "name": "openai-oauth-1m",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test openai-oauth-1m.test.js",
+    "lint": "node --check openai-oauth-1m.js && node --check openai-oauth-1m.test.js"
+  }
+}
